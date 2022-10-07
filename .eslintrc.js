@@ -35,6 +35,20 @@ module.exports = {
             rules: {
                 "no-console": "off"
             }
+        },
+        {
+            files: "lib/rules/*.js",
+            rules: {
+                "no-controle": "off",
+                "valid-jsdoc": "off",
+                "no-undef": "off",
+                "no-unused-expressions": "off",
+                "func-style": "off",
+                "no-unused-vars": "off",
+                "curly": "off",
+                "no-param-reassign": "off",
+                "default-case": "off"
+            }
         }
     ]
 };
