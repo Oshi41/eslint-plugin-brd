@@ -1,5 +1,6 @@
-# brd/curly-brace-newline
-> Rule is managing newline for curly brace. 
+# xxxx/curly-brace-newline
+> Managing curly brace newline style
+> - ✒️ The `--fix` option on the [command line](https://eslint.org/docs/user-guide/command-line-interface#fixing-problems) can automatically fix some of the problems reported by this rule.
 
 ## Rule Details
 
@@ -63,8 +64,9 @@ Second param is configuration object
 3) new_for_long_declaration - if function declaration tooks more than one line,
 forces brace to be on new line, otherwise stays on same line
 
+   
 
+## Implementation
 
-[Rule source](lib/rules/curly-brace-newline.js)
-
-[Rule tests](tests/lib/rules/curly-brace-newline.js)
+- [Rule source](../../lib/rules/curly-brace-newline.js)
+- [Test source](../../tests/lib/rules/curly-brace-newline.js)

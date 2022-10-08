@@ -73,11 +73,17 @@ See also [Configuring ESLint](https://eslint.org/docs/user-guide/configuring).
 ## Rules
 
 <!--RULE_TABLE_BEGIN-->
+### Possible Errors
+
+| Rule ID | Description |    |
+|:--------|:------------|:--:|
+| [xxxx/export-alias](./docs/rules/export-alias.md) | Use special alias for 'exports' directive. | ✒️ |
+
 ### Stylistic Issues
 
 | Rule ID | Description |    |
 |:--------|:------------|:--:|
-| [xxxx/example-rule](./docs/rules/example-rule.md) | An example rule. | ⭐️ |
+| [xxxx/curly-brace-newline](./docs/rules/curly-brace-newline.md) | Managing curly brace newline style | ✒️ |
 
 <!--RULE_TABLE_END-->
 

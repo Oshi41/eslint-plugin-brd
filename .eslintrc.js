@@ -39,15 +39,17 @@ module.exports = {
         {
             files: "lib/rules/*.js",
             rules: {
-                "no-controle": "off",
+                "no-console": "off",
                 "valid-jsdoc": "off",
                 "no-undef": "off",
                 "no-unused-expressions": "off",
                 "func-style": "off",
                 "no-unused-vars": "off",
-                "curly": "off",
                 "no-param-reassign": "off",
-                "default-case": "off"
+                "default-case": "off",
+                "eslint-plugin/report-message-format": "off",
+                "no-case-declarations": "off"
+
             }
         }
     ]

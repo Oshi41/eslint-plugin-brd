@@ -15,7 +15,7 @@
     "update": "node scripts/update",
     "pretest": "npm run -s lint",
     "test": "nyc mocha \"tests/lib/**/*.js\" --reporter progress",
-    "debug": "mocha \"tests/lib/**/*.js\" --reporter progress",
+    "debug": "mocha \"tests/lib/**/*.js\" --reporter progress --inspect-brk",
     "preversion": "npm test",
     "version": "npm run -s update",
     "postversion": "git push && git push --tags"
