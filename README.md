@@ -77,13 +77,19 @@ See also [Configuring ESLint](https://eslint.org/docs/user-guide/configuring).
 
 | Rule ID | Description |    |
 |:--------|:------------|:--:|
-| [xxxx/export-alias](./docs/rules/export-alias.md) | Use special alias for 'exports' directive. | ✒️ |
+| [brd/export-alias](./docs/rules/export-alias.md) | Use special alias for 'exports' directive. | ✒️ |
+
+### Best Practices
+
+| Rule ID | Description |    |
+|:--------|:------------|:--:|
+| [brd/no-undefined-return](./docs/rules/no-undefined-return.md) | Do not return undefined | ✒️ |
 
 ### Stylistic Issues
 
 | Rule ID | Description |    |
 |:--------|:------------|:--:|
-| [xxxx/curly-brace-newline](./docs/rules/curly-brace-newline.md) | Managing curly brace newline style | ✒️ |
+| [brd/curly-brace-newline](./docs/rules/curly-brace-newline.md) | Managing curly brace newline style | ✒️ |
 
 <!--RULE_TABLE_END-->
 

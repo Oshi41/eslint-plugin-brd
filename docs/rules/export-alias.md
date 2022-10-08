@@ -35,7 +35,6 @@ module.exports = [];
 
 Pass string as alias name
 
-
 ## Implementation
 
 - [Rule source](../../lib/rules/export-alias.js)
