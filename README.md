@@ -78,6 +78,7 @@ See also [Configuring ESLint](https://eslint.org/docs/user-guide/configuring).
 | Rule ID | Description |    |
 |:--------|:------------|:--:|
 | [brd/export-alias](./docs/rules/export-alias.md) | Use special alias for 'exports' directive. | ✒️ |
+| [brd/simple-null-check](./docs/rules/simple-null-check.md) | Prefer simple null check | ✒️ |
 
 ### Best Practices
 
