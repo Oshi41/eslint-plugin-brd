@@ -48,8 +48,8 @@ module.exports = {
                 "no-param-reassign": "off",
                 "default-case": "off",
                 "eslint-plugin/report-message-format": "off",
-                "no-case-declarations": "off"
-
+                "no-case-declarations": "off",
+                "no-undefined": "off"
             }
         }
     ]

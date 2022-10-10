@@ -77,20 +77,21 @@ See also [Configuring ESLint](https://eslint.org/docs/user-guide/configuring).
 
 | Rule ID | Description |    |
 |:--------|:------------|:--:|
-| [brd/export-alias](./docs/rules/export-alias.md) | Use special alias for 'exports' directive. | ✒️ |
+| [brd/export-alias](./docs/rules/export-alias.md) | Use special alias for 'exports' directive. | ⭐️✒️ |
 | [brd/simple-null-check](./docs/rules/simple-null-check.md) | Prefer simple null check | ✒️ |
 
 ### Best Practices
 
 | Rule ID | Description |    |
 |:--------|:------------|:--:|
-| [brd/no-undefined-return](./docs/rules/no-undefined-return.md) | Do not return undefined | ✒️ |
+| [brd/no-undefined-return](./docs/rules/no-undefined-return.md) | Do not return undefined | ⭐️✒️ |
 
 ### Stylistic Issues
 
 | Rule ID | Description |    |
 |:--------|:------------|:--:|
-| [brd/curly-brace-newline](./docs/rules/curly-brace-newline.md) | Managing curly brace newline style | ✒️ |
+| [brd/curly-brace-newline](./docs/rules/curly-brace-newline.md) | Managing curly brace newline style | ⭐️✒️ |
+| [brd/operator-space](./docs/rules/operator-space.md) | Spacing within operators | ⭐️✒️ |
 
 <!--RULE_TABLE_END-->
 

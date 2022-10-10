@@ -37,7 +37,6 @@ if (obj !== 0 || obj != 0 || obj != +(-0)) {
 
 No options provided
 
-
 ## Implementation
 
 - [Rule source](../../lib/rules/simple-null-check.js)
